@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikashg85
 - 👀 I’m interested in GCP, Data engineering, Data science.
-- 🌱 I’m currently learning Dataflow, Cloud Composer.
+- 🌱 I’m currently working on GCP different components like Composer (Airflow), GCS, Cloud Functions, Bigquery, Dataflow (Apache Beam), python based Dataproc, CSR (cloud source repository) and others components.
 - 💞️ I’m looking to collaborate on Dataflow
 - 📫 How to reach me ...
 
